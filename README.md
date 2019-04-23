@@ -1,3 +1,12 @@
+> This project has two homes.
+> It is ok to work in github, still, for a better decentralized web
+> please consider contributing (issues, PR, etc...) throught:
+>
+> https://gitlab.esy.fun/yogsototh/clj-http-client
+
+---
+
+
 # puppetlabs/http-client
 
 [![Build Status](https://travis-ci.org/puppetlabs/clj-http-client.png?branch=master)](https://travis-ci.org/puppetlabs/clj-http-client)
